@@ -17,10 +17,10 @@ import { skills, categories } from '../data/resume/skills';
 
 const sections = [
   'Education',
+  'Research',
   'Experience',
   'Skills',
   'Courses',
-  'References',
 ];
 
 const Resume = () => (
@@ -42,8 +42,8 @@ const Resume = () => (
         </div>
       </header>
       <Education data={degrees} />
-      <Experience data={positions} />
       <References data={researches}/>
+      <Experience data={positions} />
       <Skills skills={skills} categories={categories} />
       <Courses data={courses} />
     </article>
