@@ -12,6 +12,7 @@ import References from '../components/Resume/References';
 import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
+import researches from '../data/resume/researches';
 import { skills, categories } from '../data/resume/skills';
 
 const sections = [
@@ -25,7 +26,7 @@ const sections = [
 const Resume = () => (
   <Main
     title="Resume"
-    description="Siyuan Zhao's Resume. Arthena, Matroid, YC, Skeptical Investments, Stanford ICME, Planet Labs, and Facebook."
+    description="Siyuan Zhao's Resume"
   >
     <article className="post" id="resume">
       <header>
@@ -42,10 +43,9 @@ const Resume = () => (
       </header>
       <Education data={degrees} />
       <Experience data={positions} />
+      <References data={researches}/>
       <Skills skills={skills} categories={categories} />
       <Courses data={courses} />
-      <References />
-
     </article>
   </Main>
 );

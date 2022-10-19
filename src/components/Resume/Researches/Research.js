@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Job = ({ data }) => (
-  <article className="jobs-container">
+const Research = ({ data }) => (
+  <article className="researches-container">
     <header>
       <h4>{data.company} - {data.position}</h4>
       <p className="daterange"> {data.daterange}</p>
@@ -15,7 +15,7 @@ const Job = ({ data }) => (
   </article>
 );
 
-Job.propTypes = {
+Research.propTypes = {
   data: PropTypes.shape({
     company: PropTypes.string.isRequired,
     position: PropTypes.string.isRequired,
@@ -24,4 +24,4 @@ Job.propTypes = {
   }).isRequired,
 };
 
-export default Job;
+export default Research;
