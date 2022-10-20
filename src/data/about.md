@@ -20,7 +20,7 @@ I am a Master student of [Worcester Polytechnic Institute](https://www.wpi.edu/)
 
 - When I was in senior high school, I did not understand how to study. Just remember everything I learned and did a lot of practice like a machine. Although I was not so bad in senior high school, I still was not the top student, and became a real 'mid-level' student and went to a 'mid-level' university.
 
-- I decided to change myself and tried not to be a quiet person in the class, so I joined the Students' Union. But I found that it is no meaning after graduation, there is no company that cares about your activity in the Students' Union. It seems like I have wasted some time, but I don't regret it because I believe that everything in the world has its own meaning.
+- I decided to change myself and tried not to be a quiet person in the class, so I joined the Students' Union. But I found that it is no meaning after graduation because there is no company that cares about your activity in the Students' Union. It seems like I was in the wrong direction, but I don't regret it because I believe that everything in the world has its own meaning.
 
 - In college, all learning is up to you. I became that person who likes going to the library the most. I am curious about the 'definitions' behind some of the lectures, but these definitions often are the knowledge that will not be covered or tested in the class. But I just simply want to understand why.
 

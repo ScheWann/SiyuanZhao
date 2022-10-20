@@ -9,7 +9,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/Siyuan Zhao.jpeg`} alt="" />
       </Link>
       <header>
         <h2>Siyuan Zhao</h2>
@@ -22,8 +22,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Siyuan Zhao. I like building things. I am a{" "}
-        <a href="https://www.wpi.edu/academics/study/masters-information-technology">WPI Information Technoogy</a>{" "}
+        Hi, My name is Siyuan Zhao. Building things is what I like. Now, I am a{" "}
+        <a href="https://www.wpi.edu/academics/study/masters-information-technology">WPI Information Technology</a>{" "}
         graduate student. Before WPI I was at Hsoft , and Kumi.
       </p>
       <ul className="actions">
