@@ -4,15 +4,15 @@ I am a Master student of [Worcester Polytechnic Institute](https://www.wpi.edu/)
 
 # Education
 
-- Worcester Polytechnic Institute 08/2021 - present
-- Shandong University of Finance and Economic 08/2016 - 06/2020
+- Worcester Polytechnic Institute   08/2021 - present
+- Shandong University of Finance and Economic   08/2016 - 06/2020
 
 # Experience
 
-- U.S. Army DEVCOM Army Research Laboratory, Research Intern 08/2022 - present
-- Worcester Polytechnic Institute, Research Assistant 02/2022 - 05/2022
-- Hsoft Corporation, Full-Stack Engineer Intern 03/2021 - 06/2021
-- Kumi Corporation, Front-End Engineer Intern 01/2019 - 04/2019
+- U.S. Army DEVCOM Army Research Laboratory, Research Intern    08/2022 - present
+- Worcester Polytechnic Institute, Research Assistant   02/2022 - 05/2022
+- Hsoft Corporation, Full-Stack Engineer Intern   03/2021 - 06/2021
+- Kumi Corporation, Front-End Engineer Intern   01/2019 - 04/2019
 
 # Some my stories
 
