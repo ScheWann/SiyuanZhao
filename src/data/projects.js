@@ -1,15 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: "Nearest Dollar",
-    subtitle: "2015 BVP Hackathon",
-    image: "/images/projects/nearestdollar.jpg",
-    date: "2015-11-20",
+    title: "Design and implementation of integrated game website ",
+    subtitle: "game website",
+    image: "/images/projects/game.png",
+    link: "https://github.com/ScheWann/gameIntegration",
+    date: "2019-09",
     desc:
-      "Built for a social impact hackathon. " +
-      "NearestDollar connected to your bank accounts, credit cards, " +
-      "or debit cards and rounded up your purchases to donate the balance to " +
-      "the charity of your choice.",
+      "This is my fabulous Nuxt.js project. " +
+      "After discovering the shortcomings of Vue.js in search engine optimization (SEO), I re-studied and explored Nuxt.js (an improved front-end framework for SEO), and all applied in this project." +
+      "Here is a completed front-end design."
   },
   {
     title: "Harvest",
