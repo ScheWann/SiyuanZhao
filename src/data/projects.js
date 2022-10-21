@@ -4,7 +4,7 @@ const data = [
     title: "Design and implementation of integrated game website ",
     subtitle: "game website",
     image: "/images/projects/game.png",
-    link: "https://github.com/ScheWann/gameIntegration",
+    link: "https://github.com/ScheWann/gamewebsite",
     date: "2019-09",
     desc:
       "This is my fabulous Nuxt.js project. " +
