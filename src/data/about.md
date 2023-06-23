@@ -1,15 +1,16 @@
 # Intro
 
-I am a Master student of [Worcester Polytechnic Institute](https://www.wpi.edu/). I am particularly interested in Machine Learning, Deep Learning, Data visualization, and Computer Vision. Now I am a 2023Fall PhD Applicant.
+I am a doctoral student of [University of Illinois Chicago](https://www.uic.edu/). I am particularly interested in Data visualization.
 
 # Education
 
-- Worcester Polytechnic Institute   08/2021 - present
+- University of Illinois Chicago    08/2023
+- Worcester Polytechnic Institute   08/2021 - 06/2023
 - Shandong University of Finance and Economic   08/2016 - 06/2020
 
 # Experience
 
-- U.S. Army DEVCOM Army Research Laboratory, Research Intern    08/2022 - present
+- U.S. Army DEVCOM Army Research Laboratory, Research Intern    08/2022 - 06/2023
 - Worcester Polytechnic Institute, Research Assistant   02/2022 - 05/2022
 - Hsoft Corporation, Full-Stack Engineer Intern   03/2021 - 06/2021
 - Kumi Corporation, Front-End Engineer Intern   01/2019 - 04/2019
@@ -45,6 +46,10 @@ I am a Master student of [Worcester Polytechnic Institute](https://www.wpi.edu/)
 - In early 2020, the Covid-19 broke out, this made me miss my graduation ceremony.
 
 - In March 2021, I took my second work as a Full-Stack Engineer, I found I was busy in complete each deadline and repleted work. Each part could not be completed perfectly, but most people do not care about that, so I found that is not the life that I want, I pursued a life full of improvement, so I decide to be Ph.D..
+
+- In March 2023, I got my PhD admission from the University of Illinois at Chicago, thank you for Prof. Marai!
+
+- In June 2023, I successfully graduated from WPI and got my Master's degree, thank you for the professors and cultivation from WPI!
 
 
 # I like

@@ -23,8 +23,8 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, My name is Siyuan Zhao. Building things is what I like. Now, I am a{" "}
-        <a href="https://www.wpi.edu/academics/study/masters-information-technology">WPI Information Technology</a>{" "}
-        graduate student. Before WPI I was at Hsoft , and Kumi.
+        <a href="https://cs.uic.edu/">UIC Computer Science</a>{" "}
+        doctoral student. Before that I was a Information Technology student in <a href="https://www.wpi.edu/academics/study/masters-information-technology">WPI</a>.
       </p>
       <ul className="actions">
         <li>
