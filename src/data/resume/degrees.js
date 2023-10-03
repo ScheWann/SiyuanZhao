@@ -1,5 +1,11 @@
 const degrees = [
   {
+    school: 'University of Illinois Chicago',
+    degree: 'Ph.D. Computer Science',
+    link: 'https://www.uic.edu/',
+    year: 2023,
+  },
+  {
     school: 'Worcester Polytechnic Institute',
     degree: 'M.S. Information Technology',
     link: 'https://www.wpi.edu/',
