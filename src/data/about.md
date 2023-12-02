@@ -51,6 +51,8 @@ I am a doctoral student of [University of Illinois Chicago](https://www.uic.edu/
 
 - In June 2023, I successfully graduated from WPI and got my Master's degree, thank you for the professors and cultivation from WPI!
 
+- In August 2023, I joined UIC as a new computer science doctoral student and becomed a member of the Electronic Visualization Lab (EVL).
+
 
 # I like
 
