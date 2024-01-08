@@ -12,7 +12,7 @@ const data = [
   {
     title: "Gun death distribution",
     subtitle: "Gun death distribution",
-    image: "/images/projects/cs529.png",
+    image: "/images/projects/CS529.png",
     link: "https://github.com/ScheWann/CS529HW1",
     date: "2023-08",
     desc:
