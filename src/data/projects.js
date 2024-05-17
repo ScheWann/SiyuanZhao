@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: "Potato vs Chef",
+    subtitle: "UIC CS 426 Final Unity Game Project",
+    image: "/images/projects/PvC.png",
+    link: "https://github.com/ScheWann/CS426_PvC",
+    date: "2024-05",
+    desc:
+      "Potato vs Chef is a multiplayer PC game designed for children aged 6-14, player vs player game. The game revolves around a culinary chase where players take on the roles of Chef and Potato."
+  },
+  {
     title: "Electrical activity visualization analysis tool for diagnosing epileptic seizures and propagation",
     subtitle: "Electrical activity visualization analysis tool for diagnosing epileptic seizures and propagation",
     image: "/images/projects/epliepsy.png",
