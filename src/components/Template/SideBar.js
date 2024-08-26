@@ -14,7 +14,7 @@ const SideBar = () => (
       <header>
         <h2>Siyuan Zhao</h2>
         <p>
-          <a href="mailto:szhao4@wpi.edu">szhao4@wpi.edu</a>
+          <a>szhao69 [AT] uic [DOT] edu </a>
         </p>
       </header>
     </section>
