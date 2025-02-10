@@ -1,5 +1,23 @@
 const positions = [
   {
+    company: "University of Illinois at Chicago",
+    position: "",
+    deterange: "May 2024 - Aug 2024",
+    points: [
+      "Helped mentor a CS freshman intern in the lab.",
+      "provided software demos and hands-on training and guidance when requested.",
+    ]
+  },
+  {
+    company: "University of Illinois at Chicago",
+    position: "Teaching Assistant",
+    deterange: "August 2023 - May 2024",
+    points: [
+      "Led instructional efforts in Design courses, including the assignments and exams.",
+      "Facilitated office hours, conducted lab presentations, graded assignments, and created hands-on tutorials, actively engaging students in the learning process.",
+    ]
+  },
+  {
     company: "Hsoft Coporation",
     position: "Full-Stack engineer Intern",
     daterange: "March 2021 - June 2021",

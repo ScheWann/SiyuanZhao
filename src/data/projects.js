@@ -1,6 +1,24 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: "ChromPolymerDB",
+    subtitle: "A Web Database for High-Resolution Ensemble Models of 3D Single-Cell Chromatin Conformations.",
+    image: "/images/projects/ChromPolymerDB.png",
+    link: "https://github.com/ScheWann/CS522_Project",
+    date: "Present",
+    desc:
+      "A Web Database for High-Resolution Ensemble Models of 3D Single-Cell Chromatin Conformations."
+  },
+  {
+    title: "A Part-to-Whole Circular Cell Explorer",
+    subtitle: "IEEE VIS 2024 Bio+Med+Vis Challenge Published",
+    image: "/images/projects/Cell_Explorer.png",
+    link: "https://github.com/ScheWann/A-Part-to-Whole-Circular-Cell-Explorer",
+    date: "2024-10",
+    desc:
+      "This work provides deeper insights into the molecular mechanisms underlying complex biological processes within tissues. It has been accepted by IEEE VIS 2024 Bio+Med+Vis Challenge workshop."
+  },
+  {
     title: "Potato vs Chef",
     subtitle: "UIC CS 426 Final Unity Game Project",
     image: "/images/projects/PvC.png",

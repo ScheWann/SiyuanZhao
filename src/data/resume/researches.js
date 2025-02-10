@@ -1,12 +1,20 @@
 const researches = [
   {
-    company: 'U.S. Army DEVCOM Army Research Laboratory',
-    position: 'Research Intern',
+    company: 'University of Illinois at Chicago',
+    position: 'Research Assistant',
+    daterange: 'August 2024 - Present',
+    points: [
+      'Conducted research focused on visual data science in oncology, neurosurgery, genomics and spatial transcriptomics, contributing to the advancement of the field.',
+      'Designed, prototyped, developed, and evaluated visual analytics systems in collaboration with various domain experts, driving innovation and application in real-world scenarios.'
+    ]
+  },
+  {
+    company: 'Worcester Polytechnic Institute',
+    position: 'Research Assistant',
     daterange: 'August 2022 - December 2022',
     points: [
-      'Migrated the complete CNN model to the web, and applied React.js to complete the visualization views, including Convolutional Elastic Explanation View, Convolutional, ReLU, and Pooling Interactive Formula Views, Flatten Elastic Explanation View, Softmax Interactive Formula View.',
-      'Fixed and documented various compatibility errors of project dependencies due to version changes, including Expokits, React-Natives, Cocoapods, Poetry, etc.',
-      'Referenced 10+ ML/DL papers on material corrosion based on existing automated corrosion assessment models. Designed a deep learning model for predicting corrosion degrees under humidity, temperature, wind, etc.'
+      'Enhanced project compatibility by addressing compatibility errors in Expokits, React-Natives, Cocoapods, Poetry, etc., resulting in a 50% improvement. Thorough documentation is provided for future reference.',
+      'Implemented a robust and efficient multi-device, multi-account corrosion data transfer and management function by QR-Code on iOS devices.'
     ]
   },
   {
