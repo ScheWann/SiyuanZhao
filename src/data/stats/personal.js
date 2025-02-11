@@ -27,7 +27,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Worcester, MA',
+    value: 'Chicago, IL',
   },
   {
     key: 'BrithPlace',
