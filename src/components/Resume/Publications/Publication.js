@@ -15,7 +15,7 @@ Publication.propTypes = {
     data: PropTypes.shape({
         title: PropTypes.string.isRequired,
         link: PropTypes.string.isRequired,
-        year: PropTypes.string.isRequired,
+        year: PropTypes.number.isRequired,
         description: PropTypes.string.isRequired,
     }).isRequired,
 };

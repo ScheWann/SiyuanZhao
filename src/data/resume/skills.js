@@ -13,6 +13,16 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
+    title: 'Three.js',
+    competency: 3,
+    category: ['Web Development', 'Javascript'],
+  },
+  {
+    title: 'Docker',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
     title: 'React',
     competency: 4,
     category: ['Web Development', 'Javascript'],
@@ -59,12 +69,12 @@ const skills = [
   },
   {
     title: 'Flask',
-    competency: 2,
+    competency: 4,
     category: ['Web Development', 'Python'],
   },
   {
     title: 'Git/Mercurial',
-    competency: 3,
+    competency: 5,
     category: ['Tools'],
   },
   {
