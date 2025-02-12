@@ -5,7 +5,7 @@ import Publication from './Publications/Publication';
 
 const Publications = ({ data }) => (
     <div className="publications">
-        <div className="link-to" id="publication" />
+        <div className="link-to" id="publications" />
         <div className="title">
             <h3>Publications</h3>
         </div>
@@ -22,6 +22,7 @@ Publications.propTypes = {
             link: PropTypes.string.isRequired,
             year: PropTypes.number.isRequired,
             description: PropTypes.string.isRequired,
+            cite: PropTypes.string.isRequired
         })
     ).isRequired,
 };
