@@ -3,19 +3,23 @@ import PropTypes from "prop-types";
 
 import Publication from './Publications/Publication';
 
-const Publication = ({ data, last }) => (
-    <div className="course-container">
-        <p className="course-name">{data.title}</p>
+const Publications = ({ data }) => (
+    <div className="publications">
+        {data.map((pub, index) => (
+            <Publication key={index} data={pub} last={index === data.length - 1} />
+        ))}
     </div>
 );
 
-Publication.propTypes = {
-    data: PropTypes.shape({
-        title: PropTypes.string.isRequired,
-        link: PropTypes.string.isRequired,
-        year: PropTypes.number.isRequired,
-        description: PropTypes.string.isRequired,
-    }).isRequired,
+Publications.propTypes = {
+    data: PropTypes.arrayOf(
+        PropTypes.shape({
+            title: PropTypes.string.isRequired,
+            link: PropTypes.string.isRequired,
+            year: PropTypes.number.isRequired,
+            description: PropTypes.string.isRequired,
+        })
+    ).isRequired,
 };
 
-export default Publication;
+export default Publications;
