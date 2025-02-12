@@ -12,6 +12,7 @@ Publication.propTypes = {
         title: PropTypes.string.isRequired,
         link: PropTypes.string.isRequired,
         year: PropTypes.string.isRequired,
+        description: PropTypes.string.isRequired,
     }).isRequired,
 };
 
