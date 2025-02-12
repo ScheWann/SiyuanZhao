@@ -1,7 +1,7 @@
 const positions = [
   {
     company: "University of Illinois at Chicago",
-    position: "",
+    position: "Student Mentor",
     deterange: "May 2024 - Aug 2024",
     points: [
       "Helped mentor a CS freshman intern in the lab.",
